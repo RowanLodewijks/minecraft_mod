@@ -1,1 +1,5 @@
+Git link:
 https://github.com/RowanLodewijks/minecraft_mod
+
+Git kanban bord link:
+https://github.com/users/RowanLodewijks/projects/3
